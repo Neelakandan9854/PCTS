@@ -1,0 +1,12 @@
+version: 2
+ 
+sources:
+  - name: public
+   
+    database: IntelizignProducts
+    tables:
+      - name: CUSTOMER
+      - name: Product
+      - name: Transaction
+      - name: Stock
+     
